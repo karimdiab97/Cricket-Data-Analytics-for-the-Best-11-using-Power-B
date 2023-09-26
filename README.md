@@ -19,29 +19,6 @@ The final results of the analysis are presented in a Power BI report, showcasing
 
 To view the report, you will need to have Power BI Desktop installed on your computer. You can download Power BI Desktop from the [Microsoft website](https://powerbi.microsoft.com/). Once you have Power BI Desktop installed, simply open the `.pbix` file in the repository and start exploring the data and visualizations.
 
-## Overview
-
-## 1) Opener Analysis
-![Opener](Openers.png)
-
-## 2) Middle Order Analysis
-![Middle Order Anchor](Middle.png)
-
-## 3) Finisher Analysis
-![Lower Middle Order](Finishers.png)
-
-## 4) Bowling Allrounder Analysis
-![Bowling Allrounder](Allround.png)
-
-## 5)Specialist Fast Bowler Analysis
-![Fast Bowler](tail.png)
-
-## Stats Tooltip on hovering over the player
-![tooltip](statstool.png)
-
-## And Finally, the Final 11
-![Final 11](final1.png)
-![Final 11b](final2.png)
 
 We have a wicketkeeper in the best 11, fortunately. Else we could have made a slightly different team selection.
 
